@@ -5,8 +5,7 @@
 <div align="left">
   <h2>About Me ✨</h2>
   <p>
-    <b>Full-stack developer</b> who enjoys solving problems and learning new technologies.<br>
-    I like it when things work, but I love understanding <i>why</i> they work.
+    <b>Full-stack developer</b> who enjoys solving problems and learning new technologies. I like it when things work, but I love understanding <i>why</i> they work.
     <br><br>
     <b>🌱 Currently exploring</b><br>
       • Data analysis and visualization<br>
